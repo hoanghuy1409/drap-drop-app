@@ -1,7 +1,15 @@
 # drap-drop-app
 
-## Run app
-npm start
+Typescrip | split code modules | webpack workflow
 
-## Build Typescript app
-tsc -w
+## install dependences
+
+npm t
+
+## Run app
+
+npm run start
+
+## run build app
+
+npm run build
