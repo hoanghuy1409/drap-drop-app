@@ -4,7 +4,7 @@ Typescrip | split code modules | webpack workflow
 
 ## install dependences
 
-npm t
+npm i
 
 ## Run app
 
